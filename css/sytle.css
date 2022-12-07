@@ -1,0 +1,58 @@
+.text-color{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.section{
+    display: flex;
+}
+
+.div_size {
+    height: 5vh;
+    margin: 1vh;
+}
+
+.div_1_col {
+    background-color: blue;
+    width: 10vw;
+}
+
+.div_2_col {
+    background-color: green;
+    width: 25vw;
+}
+
+.div_3_col {
+    background-color: black;
+    width: 46vw;
+}
+
+.div20{
+    background-color: purple;
+    width: 94vw;
+}
+
+.div21{
+    background-color: purple;
+    width: 46vw;
+}
+
+.div_4_col {
+    background-color: pink;
+    width: 22vw;
+}
+
+.div24{
+    background-color: pink;
+    width: 46vw;
+}
+
+.div_5_col{
+    background-color: coral;
+    width: 70vw;
+}
+
+.div_6_col{
+    background-color: red;
+    width: 142vw;
+}
